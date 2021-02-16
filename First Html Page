@@ -1,0 +1,46 @@
+<!DOCTYPE HTML>
+<HTML>
+
+<HEAD>
+
+<TITLE>Your Title Here</TITLE>
+
+</HEAD>
+
+<BODY BGCOLOR="FFFFFF">
+
+<CENTER><IMG SRC="https://www.google.com/search?q=Workout+gym+photo&rlz=1C1CHZL_enIN891IN891&sxsrf=ALeKk01Q5fZx2uUS0nXn5qix5P1SkrWh5g:1613492465327&tbm=isch&source=iu&ictx=1&fir=XEY3okxoEK82IM%252C-XD20xhPyi7cwM%252C_&vet=1&usg=AI4_-kTcjXI3DudD9Fmt87fjhcl3DbEdfA&sa=X&ved=2ahUKEwiwhvnp5-7uAhVLU30KHRTZBOYQ9QF6BAgNEAE#imgrc=XEY3okxoEK82IM"> </CENTER>
+
+<HR>
+
+<a href="http://somegreatsite.com">Link Name</a>
+
+is a link to another site
+
+<H1><b>My name is Sathyam</b></H1>
+
+<H2>My name is Sathyam</H2>
+
+Send me mail at <a href="mailto:support@yourcompany.com">
+
+support@yourcompany.com</a>.
+<h1>Show Email Fields</h1>
+
+<h3>Show an email field (allows only one email address):</h3>
+<form action="/action_page.php">
+  <label for="email">Enter your email:</label>
+  <input type="email" id="email" name="email">
+  <input type="submit">
+</form>
+
+<P> This is a new paragraph!
+
+<P> <B>This is a new paragraph!</B>
+
+<BR> <B><I>This is a new sentence without a paragraph break, in bold italics.</I></B>
+
+<HR>
+
+</BODY>
+
+</HTML>
